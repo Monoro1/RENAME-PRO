@@ -7,7 +7,7 @@ API_HASH = os.environ.get("API_HASH", "d06d320353dd369c577b33be893c622b")
 OWNER = int(os.environ.get("OWNER", "7063650557"))
 BOT_USERNAME = os.environ.get('BOT_USERNAME', "Filexrenamer_jks_bot")
 
-FORCE_SUBS = os.environ.get("FORCE_SUBS", "HxBots")
+FORCE_SUBS = os.environ.get("FORCE_SUBS", "AAnimeOngoing")
 LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002153242485"))
 
 DB_URL = os.environ.get("DB_URL", "mongodb+srv://anime578901:anime12345678@cluster0.ytgrmvb.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
