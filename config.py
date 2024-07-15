@@ -13,7 +13,7 @@ LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002153242485"))
 DB_URL = os.environ.get("DB_URL", "mongodb+srv://anime578901:anime12345678@cluster0.ytgrmvb.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 DB_NAME = os.environ.get("DB_NAME", "anime578901")
 
-STRING = os.environ.get("STRING", "True")
+STRING = os.environ.get("STRING", "False")
 BOT_PIC = os.environ.get("BOT_PIC", "https://graph.org/file/cca849a2f63053fa3f622.jpg")
 
 
